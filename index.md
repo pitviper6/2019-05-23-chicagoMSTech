@@ -134,7 +134,7 @@ Modify the block below if there are any special requirements.
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
  </p>
 <p>
-NOTE: There will <strong>not</strong> be catering provided, but there are a wide variety of coffee and lunch options available close to the venue.
+  <strong>NOTE:</strong> There will <strong>not</strong> be catering provided, but there are a wide variety of coffee and lunch options available close to the venue.
 </p>
 
 {% comment%}
